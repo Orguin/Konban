@@ -28,11 +28,11 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "orguin/slimkeleton": "dev-master",
         "slim/slim": "dev-master",
         "monolog/monolog": "1.3.x-dev",
         "caseyamcl/MongoRecord": "dev-master",
-        "php-activerecord/php-activerecord": "dev-master"
+        "php-activerecord/php-activerecord": "dev-master",
+        "orguin/slimkeleton": "dev-master"
     },
     "suggest": {
         "caseyamcl/MongoRecord": "An ActiveRecord for Mongo DB. (requires ext-mongo)",
